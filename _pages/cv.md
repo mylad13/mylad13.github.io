@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, McMaster University, 2025 (expected)
+* M.S. in Control Engineering, Sharif University of Technology, 2020
+* B.S. in Electrical Engineering, Sharif University of Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2021- PhD Researcher
+  * McMaster University University
+  * Developed a transformer-based multi-agent deep reinforcement learning framework for distributed cooperative mission planning of a heterogeneous team of mobile robots, enabling asynchronous and scalable cooperation among robotic teams.
+  * Supervisor: Dr. Shahin Sirouspour
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2021- Teaching Assistant
+  * McMaster University
+  * Co-developed and led lab sessions for the Autonomous Electrified Vehicle System Engineering and Control Systems Design courses, focusing on interdisciplinary topics such as electric machines, control theory, and sensor integration. My role involved instructing students on practical applications, including system control, programming in Python, C++, and Matlab, and hardware integration using platforms like ROS, NVIDIA Jetson Nano, and Simulink.
+  * Supervisor: Dr. Shahin Sirouspour
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022- Undergraduate Mentorship
+  * McMaster University
+  * Mentored undergraduate students in research projects, providing technical guidance on obstacle detection and multi-robot navigation on an f1tenth ground vehicle powered by Nvidia Jetson edge computers. My support extended to areas like integrating LIDAR and RGB-D cameras and implementing collaborative-SLAM in 3D simulation environments including Gazebo and Isaac Sim.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reinforcement Learning, Multi-Agent Reinforcement Learning, Neural Networks, Deep Learning, Transformer Models, Deep Reinforcement Learning, Computer Vision, Motion Planning, Robotic Perception, System Design
+* Python, C++, Pytorch, CUDA, ROS, ROS 2, Gazebo, Nvidia Isaac, Linux, Git, Docker, MATLAB, Simulink.
+* Communication, Teamwork, Leadership, Problem-Solving, Creativity, Adaptability, Facilitation, Time-Management.
 
 Publications
 ======
