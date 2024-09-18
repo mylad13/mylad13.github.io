@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Model-free LQR design by Q-function learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-01-ModelFreeLQR
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper presents a sample-efficient, model-free approach to designing LQR controllers using optimization frameworks, extending to distributed control with robust performance on interconnected systems.'
 date: 2022-03-01
 venue: 'Automatica'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/Model-free LQR Design.pdf'
+paperurl: 'http://mylad13.github.io/files/Model-free LQR Design.pdf'
 citation: 'Farjadnasab, M., & Babazadeh, M. (2022). Model-free LQR design by Q-function learning. Automatica, 137, 110060.'
 ---
 
