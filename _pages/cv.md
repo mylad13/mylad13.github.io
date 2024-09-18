@@ -24,7 +24,7 @@ Work experience
 
 * Sep 2021- Teaching Assistant
   * McMaster University
-  * Co-developed and led lab sessions for the Autonomous Electrified Vehicle System Engineering and Control Systems Design courses, focusing on interdisciplinary topics such as electric machines, control theory, and sensor integration. My role involved instructing students on practical applications, including system control, programming in Python, C++, and Matlab, and hardware integration using platforms like ROS, NVIDIA Jetson Nano, and Simulink.
+  * Co-developed and led lab sessions for the *Autonomous Electrified Vehicle System Engineering* and *Control Systems Design* courses, focusing on interdisciplinary topics such as electric machines, control theory, and sensor integration. My role involved instructing students on developing practical applications, including system control, programming in Python, C++, and Matlab, and hardware integration using platforms like ROS, NVIDIA Jetson Nano, and Simulink.
   * Supervisor: Dr. Shahin Sirouspour
 
 * May 2022- Undergraduate Mentorship
