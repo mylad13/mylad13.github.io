@@ -1,3 +1,10 @@
+---
+title: "Welcome"
+layout: home
+nav_exclude: true
+permalink: /
+---
+
 Welcome to my personal website! I'm Milad Farjad, a PhD candidate in Electrical and Computer Engineering at McMaster University, with a focus on multi-agent reinforcement learning (MARL) and mobile robotic systems. My research explores cutting-edge AI solutions for autonomous systems, particularly in the realm of collaborative robotics and self-driving technologies.
 
 
