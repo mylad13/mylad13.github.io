@@ -20,8 +20,8 @@ Currently, my research at McMaster revolves around building scalable, AI-first f
 
 ### General Interest and Activites
 - **Music**: I play bass guitar in our little [alternative rock band](https://youtube.com/@1297_), and we have performed several live shows in Toronto. Music is a great way for me to practice mindfulness, offering a healthy separation from anxiety and worry.
-- **Languages**: I enjoy learning different languages (or at least words and phrases from them) and engaging with people from diverse cultures. In the past, I published translations of books and media from English to Farsi.
-- **Dungeons and Dragons**: I find D&D a truly fascinating way to explore different perspectives and live alternate lives beyond my own. <sub>(hit me up for a one-shot)</sub>
+- **Languages**: I enjoy learning different languages (or at least words and phrases from them) and engaging with people from different cultures. In have also published translations of books and media from English to Farsi.
+- **Dungeons and Dragons**: I find D&D a truly fascinating way to explore different perspectives and live alternate lives beyond my own. It's a unique way to practice thinking outside-the-box and taking risks, without any real consequences! <sub>(hit me up for a one-shot)</sub>
 - **Cats!**
 
 Feel free to explore the site for more information on my work, or [get in touch](mailto:mfarjadnasab@gmail.com) if you'd like to connect!
