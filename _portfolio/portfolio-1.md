@@ -10,7 +10,7 @@ These modules are implemented and utilized differently during the training and e
 ## Training
 
 
-![CATMiP in centralized training and distributed execution phases](/images/CATMip.png "(a) The centralized training workflow of the CATMiP framework in a simulated mission episode. (b) Implementation of the CATMiP framework on a single robot during the execution phase, where robots share mapping information and their embedded macro-observations to generate new actions in a distributed way.")
+![CATMiP in centralized training and distributed execution phases](/images/CATMiP.png "(a) The centralized training workflow of the CATMiP framework in a simulated mission episode. (b) Implementation of the CATMiP framework on a single robot during the execution phase, where robots share mapping information and their embedded macro-observations to generate new actions in a distributed way.")
 
 ## Simulation Setup
 
