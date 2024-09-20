@@ -20,16 +20,21 @@ Work experience
 * May 2021- **PhD Researcher**
   * McMaster University University
   * Developed a transformer-based multi-agent deep reinforcement learning framework for distributed cooperative mission planning of a heterogeneous team of mobile robots, enabling asynchronous and scalable cooperation among robotic teams.
-  * Supervisor: [Dr. Shahin Sirouspour](https://www.eng.mcmaster.ca/ece/faculty/dr-shahin-sirouspour/)
+  * Supervisor: Dr. Shahin Sirouspour
 
 * Sep 2021- **Teaching Assistant**
   * McMaster University
   * Co-developed and led lab sessions for the *Autonomous Electrified Vehicle System Engineering* and *Control Systems Design* courses, focusing on interdisciplinary topics such as electric machines, control theory, and sensor integration. My role involved instructing students on developing practical applications, including system control, programming in Python, C++, and Matlab, and hardware integration using platforms like ROS, NVIDIA Jetson Nano, and Simulink.
   * Supervisor: Dr. Shahin Sirouspour
 
-* May 2022- **Undergraduate Mentorship**
+* May 2022- **Research Mentor**
   * McMaster University
   * Mentored undergraduate students in research projects, providing technical guidance on obstacle detection and multi-robot navigation on an f1tenth ground vehicle powered by Nvidia Jetson edge computers. My support extended to areas like integrating LIDAR and RGB-D cameras and implementing collaborative-SLAM in 3D simulation environments including Gazebo and Isaac Sim.
+
+* Sep 2018 - Apr 2020 **Research Assistant**
+  * Sharif University of Technology
+  * Developed a non-iterative method for designing model-free LQR controllers for distributed systems based on convex optimization, improving the convergence time by an order of magnitude over RL-driven iterative methods.
+  * Supervisor: Dr. Maryam Babazadeh
   
 Skills
 ======
