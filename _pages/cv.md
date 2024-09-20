@@ -20,7 +20,7 @@ Work experience
 * May 2021- **PhD Researcher**
   * McMaster University University
   * Developed a transformer-based multi-agent deep reinforcement learning framework for distributed cooperative mission planning of a heterogeneous team of mobile robots, enabling asynchronous and scalable cooperation among robotic teams.
-  * Supervisor: Dr. Shahin Sirouspour
+  * Supervisor: [Dr. Shahin Sirouspour](https://www.eng.mcmaster.ca/ece/faculty/dr-shahin-sirouspour/)
 
 * Sep 2021- **Teaching Assistant**
   * McMaster University
