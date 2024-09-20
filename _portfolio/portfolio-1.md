@@ -18,7 +18,7 @@ At each time-step of the mission, agents are considered as active, inactive, or 
 
 The asynchronous multi-agent transformer (AMAT) module, illustrated in Figure 2, consists of four components: the macro-observations embedder, the encoder, the macro-actions embedder, and the decoder. In summary, AMAT processes a sequence of macro-observations from agents $i_{1:m}$, accompanied by a vector of active flags indicating the subset $i_{1:g}$ ($g \le m$) of these agents requiring new macro-actions. It then outputs the corresponding sequence of macro-actions. The input and output sequence lengths are flexible, allowing AMAT to model policies for a variable number of agents within a single network, and to support asynchronous training and inference.
 
-During centralized training, $i_{1:m}$ represents the complete agent set <MATH>I=\{1,\dots,N\}</MATH>, while in the distributed execution phase, it denotes the set of agents in the same neighborhood $\mathcal{N}(i)=\{i_1,\dots,i_m\}$. In both cases, the sets are ordered to put the active agents $i_{1:g}$ first.
+During centralized training, $i_{1:m}$ represents the complete agent set $I=\{1,\dots,N\}$, while in the distributed execution phase, it denotes the set of agents in the same neighborhood $\mathcal{N}(i)=\{i_1,\dots,i_m\}$. In both cases, the sets are ordered to put the active agents $i_{1:g}$ first.
 
 ![Centralized training of AMAT](/images/AMAT(Centralized).png "Figure 2 - Centralized macro-action inference as a part of the training process of AMAT. During distributed execution, the broker robot receives macro-observation embeddings from connected agents and transmits the newly obtained MAs back to them.")
 
