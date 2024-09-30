@@ -26,4 +26,4 @@ During centralized training, $i_{1:m}$ represents the complete agent set $I=\{1,
 
 ## Simulation Results
 
-Code: https://github.com/mylad13/CATMiP
+[See the code here](https://github.com/mylad13/CATMiP)
