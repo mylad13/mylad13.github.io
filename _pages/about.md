@@ -13,7 +13,7 @@ Welcome to my personal website! I'm Milad Farjad, a PhD candidate in Electrical 
 ### Research Interests
 - **Robotics and Autonomous Systems**: Interested in developing intelligent robots by focusing on robot perception, motion planning, and control systems. Particularly interested in robot-robot and human-robot cooperation, and investigating the role of *generative AI* in this endeavor.
 - **Multi-Agent Reinforcement Learning (MARL)**: Developing decentralized models that enable teams of robots to work together in dynamic environments.
-- **Autonomous Vehicles**: Investigating AI-driven solutions for safe, scalable, and efficient self-driving technologies, including perception, sensor fusion, path planning, and control algorithms for autonomous vehicles operating in real-world conditions. Interested in learning more and applying novel solutions for autonomous driving such as *Liquid Neural Networks* and *generative AI*.
+- **Autonomous Vehicles**: Investigating AI-driven solutions for safe, scalable, and efficient self-driving technologies, including perception, sensor fusion, path planning, and control algorithms for autonomous vehicles operating in real-world conditions. Interested in learning more and applying novel solutions for autonomous driving such as *Liquid Neural Networks* and *Generative AI*.
 
 ### What I Do
 Currently, my research at McMaster revolves around building scalable, AI-first frameworks for autonomous systems, with real-world applications ranging from search-and-rescue robotics to autonomous driving. I'm also deeply involved in teaching and mentoring, helping the next generation of engineers develop practical skills in control systems, robotics, and AI.

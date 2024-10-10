@@ -22,8 +22,8 @@ During centralized training, $i_{1:m}$ represents the complete agent set $I=\{1,
 
 ![Centralized training of AMAT](/images/AMAT(Centralized).png "Figure 2 - Centralized macro-action inference as a part of the training process of AMAT. During distributed execution, the broker robot receives macro-observation embeddings from connected agents and transmits the newly obtained MAs back to them.")
 
-## Simulation Setup
-
 ## Simulation Results
+<img src="/images/catmip_simulation.gif" width="330" height="330" />
 
 [See the code here](https://github.com/mylad13/CATMiP)
+The preprint is now published on [arXiv!](https://arxiv.org/abs/2410.06372)
