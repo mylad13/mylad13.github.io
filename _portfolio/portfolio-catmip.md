@@ -17,5 +17,6 @@ Coordinating heterogeneous teams of mobile robots for tasks such as search and r
 ## Simulation Results
 <img src="/images/catmip_simulation.gif" width="330" height="330" />
 
-[See the code here](https://github.com/mylad13/CATMiP)
+[See the code here.](https://github.com/mylad13/CATMiP)
+
 The preprint is now published on [arXiv!](https://arxiv.org/abs/2410.06372)
