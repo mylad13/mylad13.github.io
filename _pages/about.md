@@ -18,9 +18,9 @@ I am a PhD candidate in Electrical and Computer Engineering at McMaster Universi
 Currently, my research at McMaster revolves around building scalable, reinforcement-learning-based frameworks for autonomous systems, with real-world applications ranging from search-and-rescue robotics to autonomous driving. I am also involved in teaching and mentoring, helping engineering students develop practical skills in control systems, robotics, and AI. Check out my [Publications](https://mylad13.github.io/publications/) and [Portfolio](https://mylad13.github.io/portfolio/) pages.
 
 ### General Interest and Activites
-- **Music**: I play bass guitar in an alternative rock band, and we have performed several live shows in Toronto. Playing music is a way for me to practice mindfulness, offering a healthy separation from anxiety and worry.
+- **Music**: I play bass guitar in an alternative rock band. I find music a mindful practice and enjoy the teamwork in writing songs and performing them.
 - **Languages**: I enjoy learning different languages and engaging with people from different cultures. I have published a number of translations of books and media from English to Farsi.
-- **Dungeons and Dragons**: I find D&D a truly fascinating way to explore different perspectives and live alternate lives beyond my own. It's a unique way to practice quick and outside-the-box thinking.
+- **Dungeons and Dragons**: I find table-top roleplaying games like Dungeons & Dragons a truly fascinating way to live alternate lives beyond my own and explore different perspectives. It's a unique way to practice improvisation and exercise your creative muscle.
 - **Cats!**
 
 Feel free to explore the site for more information on my work, or [get in touch](mailto:mfarjadnasab@gmail.com) if you'd like to connect!
